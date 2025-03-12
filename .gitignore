@@ -1,0 +1,45 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore environment variables
+.env
+
+# Ignore database migrations
+migrations/
+
+# Ignore uploads (user-uploaded files)
+uploads/
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+
+# Ignore FAISS index file
+faiss_indexes
+
+# Ignore log files
+*.log
+
+# Ignore IDE/Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore test and temporary files
+testing.py
+.DS_Store
+
+# Ignore utils compiled files
+utils/__pycache__/
+utils/chat/__pycache__/
+utils/embedding/__pycache__/
+utils/faiss/__pycache__/
+utils/file_utils/__pycache__/
