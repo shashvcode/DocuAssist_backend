@@ -4,9 +4,9 @@ import pickle
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 
-STORAGE_PATH = os.getenv("SPACE_STORAGE_PATH", "/data")
-FAISS_INDEX_DIR = os.path.join(STORAGE_PATH, "faiss_indexes")
-os.makedirs(FAISS_INDEX_DIR, exist_ok=True)
+
+FAISS_INDEX_DIR =  "faiss_indexes"
+
 
 embedding_function = HuggingFaceEmbeddings(model_name="sentence-transformers/multi-qa-mpnet-base-dot-v1")
 

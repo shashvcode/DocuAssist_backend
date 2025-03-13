@@ -29,5 +29,4 @@ app.register_blueprint(uploads, url_prefix="/uploads")
 app.register_blueprint(chat, url_prefix="/chat")
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 7860))
-    app.run(host="0.0.0.0", port=port)
+    app.run(debug=True)
