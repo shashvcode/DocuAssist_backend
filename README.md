@@ -28,7 +28,7 @@
 
 ## ⚙️ Tech Stack
 
-| **Component**            | **Technology Used**                              |
+| **Component**            | **Technology Used**                           |
 |-------------------------|------------------------------------------------|
 | **Backend**             | Flask                                          |
 | **Frontend**            | HTML, CSS, JavaScript                          |
@@ -37,7 +37,7 @@
 | **ML Models**           | BART, Sentence-BERT, GPT-4                     |
 | **LLM Inference**       | OpenAI API (GPT-4 for conversational responses)|
 | **Auth**                | JWT Authentication                             |
-                                                                              |
+                                                                              
 ---
 
 ## 🚀 Features
@@ -56,7 +56,7 @@ https://shashvcode.github.io/DocuAssist/signup.html
 https://vimeo.com/1065619751/aab9f9c1c7?share=copy
 
 ## **Developer Info**
-Name : Shashi Shekhar Verma
-Email : shashi.shekhar.s.verma@vanderbilt.edu
-GitHub : https://github.com/shashvcode
+- Name : Shashi Shekhar Verma
+- Email : shashi.shekhar.s.verma@vanderbilt.edu
+- GitHub : https://github.com/shashvcode
 
