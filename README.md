@@ -1,8 +1,6 @@
 # 📚 DocuAssist.ai - AI-Powered Study Assistant
 
-**DocuAssist.ai** is a **Retrieval-Augmented Generation (RAG)** system that allows users to **upload study materials and interact with them 
-conversationally**. By leveraging **state-of-the-art NLP techniques**, the platform extracts, summarizes, and indexes document content for 
-**efficient and accurate retrieval**.
+**DocuAssist.ai** is a **Retrieval-Augmented Generation (RAG)** system that allows users to **upload study materials and interact with them conversationally**. By leveraging **state-of-the-art NLP techniques**, the platform extracts, summarizes, and indexes document content for **efficient, accurate, and contextually relevant retrieval**.
 
 ---
 
@@ -51,4 +49,14 @@ conversationally**. By leveraging **state-of-the-art NLP techniques**, the platf
 ✅ **Summarization & Insights** - Extracts key points from documents.  
 ✅ **Easy to Use and Simplified UI** - Designed for straightforward user experience.
 
+## Frontend Hosting URL ##
+https://shashvcode.github.io/DocuAssist/signup.html
+
 ## **Live Demo**
+https://vimeo.com/1065619751/aab9f9c1c7?share=copy
+
+## **Developer Info**
+Name : Shashi Shekhar Verma
+Email : shashi.shekhar.s.verma@vanderbilt.edu
+GitHub : https://github.com/shashvcode
+
