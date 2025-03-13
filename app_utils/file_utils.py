@@ -1,5 +1,4 @@
 import re
-import os
 import docx
 import fitz
 from dotenv import load_dotenv

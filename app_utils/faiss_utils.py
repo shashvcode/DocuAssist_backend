@@ -1,4 +1,3 @@
-import numpy as np
 import os
 import pickle
 from langchain_community.vectorstores import FAISS
